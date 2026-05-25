@@ -9,7 +9,7 @@ I changed the name from Artlibre to OeuvreLibre because, quite frankly, I didn't
 
 ## License & Public Domain Notice
 
-The code and original assets created by **Stormwindsky** in this repository are licensed under [Your License, e.g., CC0-1.0 / MIT]. 
+The code and original assets created by **Stormwindsky** in this repository are licensed under [CC0-1.0]. 
 
 However, this project also includes historical assets that are in the **Public Domain** due to copyright expiration. These specific assets are not owned by Stormwindsky and are not covered by the repository's main license, but they are 100% free for anyone to use:
 
