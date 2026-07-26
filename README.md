@@ -1,3 +1,9 @@
+# WARNING:
+
+#### MY UPCOMING CREATIONS UNDER THE CC0 1.0 LICENSE WILL BE IN THIS SECTION OF THE REPOSITORY, AND OVER TIME, THE OLDER FILES WILL BE MOVED TO THIS SAME NEW FOLDER, SO HERE IT IS:
+https://github.com/Stormwindsky/Stormwindsky-Website/tree/main/Public_Domain_Thing/Made_By_Me
+
+
 # About
 
 OeuvreLibre is thing i made under CC0 1.0 license inspired by the Incompetech website but for works created by me under
